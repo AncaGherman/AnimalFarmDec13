@@ -6,9 +6,11 @@ public class AnimalYard {
     private void addAnimals() {
         animalSetInTheYard[0]= new Dog();
         animalSetInTheYard[1]= new Cat();
-        animalSetInTheYard[2]= new Cat();
-        animalSetInTheYard[3]= new Cow();
+        animalSetInTheYard[2]= new Duck();
+        animalSetInTheYard[3]= new Cat();
         animalSetInTheYard[4]= new Cow();
+        animalSetInTheYard[5]= new Cow();
+        animalSetInTheYard[6]= new Duck();
 
     }
 
